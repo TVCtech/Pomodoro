@@ -1,2 +1,2 @@
 # Pomodoro
-WorkTime Timer
+Countdown timer for time management
